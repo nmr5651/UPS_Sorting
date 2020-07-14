@@ -1,0 +1,99 @@
+[ 
+    {
+        "Id": 1,
+        "Color": "red",
+        "Chart": [
+            {
+                "ChartID": 1,
+                "Apprv": "VT",
+                "Zipcode": [500, 530, 540, 560, 570, 580]
+            },
+            
+            {
+                "ChartID": 2,
+                "Apprv": "MA",
+                "Zipcode": [219, 350]
+            }
+        ]
+        
+    },
+    
+    {
+        "Id": 2,
+        "Color": "yellow",
+        "Chart" : [
+            {
+                "ChartID": 1,
+                "Apprv": "MA",
+                "Zipcode": [140, 17, 18, 199, 249, 250, 251, 252, 274]
+            },
+
+            {
+                "ChartID": 2,
+                "Apprv": "ME",
+                "Zipcode": [449, 460, 470, 471, 400, 419, 432, 490]
+            },
+
+            {
+                "ChartID": 3,
+                "Apprv": "UT",
+                "Zipcode": [999]
+            }
+        ] 
+    },
+    
+    {
+        "Id": 3,
+        "Color": "orange",
+        "Chart": [
+            {
+                "ChartID": 1,
+                "Apprv": "MA",
+                "Zipcode": [10, 11, 12, 13, 15, 169, 269, 270]
+            },
+
+            {
+                "ChartID": 2,
+                "Apprv": "NH",
+                "Zipcode": [340, 350, 380]
+            },
+
+            {
+                "ChartID": 3,
+                "Apprv": "ME",
+                "Zipcode": [422]
+            },
+
+            {
+                "ChartID": 4,
+                "Apprv": "CT",
+                "Zipcode": [69]
+            }
+        ]
+    },
+    
+    {
+        "Id": 4,
+        "Color": "brown",
+        "Chart": [
+            {
+                "ChartID": 1,
+                "Apprv": "MA",
+                "Zipcode": [209, 212, 231]
+            },
+
+            {
+                "ChartID": 2,
+                "Apprv": "ME",
+                "Zipcode": [480]
+            },
+
+            {
+                "ChartID": 3,
+                "Apprv": "NH",
+                "Zipcode": [300, 399, 319, 320]
+            }
+        ]
+
+    }
+]
