@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/UPS_Sorting/static/css/main.29ca2c6b.chunk.css",
+    "main.js": "/UPS_Sorting/static/js/main.0a47bf6c.chunk.js",
+    "main.js.map": "/UPS_Sorting/static/js/main.0a47bf6c.chunk.js.map",
+    "runtime-main.js": "/UPS_Sorting/static/js/runtime-main.f7ff803f.js",
+    "runtime-main.js.map": "/UPS_Sorting/static/js/runtime-main.f7ff803f.js.map",
+    "static/js/2.1722903b.chunk.js": "/UPS_Sorting/static/js/2.1722903b.chunk.js",
+    "static/js/2.1722903b.chunk.js.map": "/UPS_Sorting/static/js/2.1722903b.chunk.js.map",
+    "static/js/3.d7331f45.chunk.js": "/UPS_Sorting/static/js/3.d7331f45.chunk.js",
+    "static/js/3.d7331f45.chunk.js.map": "/UPS_Sorting/static/js/3.d7331f45.chunk.js.map",
+    "index.html": "/UPS_Sorting/index.html",
+    "precache-manifest.0bdd5e0a4e75a89a620143358e40b82c.js": "/UPS_Sorting/precache-manifest.0bdd5e0a4e75a89a620143358e40b82c.js",
+    "service-worker.js": "/UPS_Sorting/service-worker.js",
+    "static/css/main.29ca2c6b.chunk.css.map": "/UPS_Sorting/static/css/main.29ca2c6b.chunk.css.map",
+    "static/js/2.1722903b.chunk.js.LICENSE.txt": "/UPS_Sorting/static/js/2.1722903b.chunk.js.LICENSE.txt",
+    "static/js/3.d7331f45.chunk.js.LICENSE.txt": "/UPS_Sorting/static/js/3.d7331f45.chunk.js.LICENSE.txt",
+    "static/media/corrrect.mp3": "/UPS_Sorting/static/media/corrrect.8e3d6124.mp3",
+    "static/media/labelside.png": "/UPS_Sorting/static/media/labelside.cbf956ff.png",
+    "static/media/upslogo.png": "/UPS_Sorting/static/media/upslogo.881843a7.png",
+    "static/media/wrong.mp3": "/UPS_Sorting/static/media/wrong.8c5e3298.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ff803f.js",
+    "static/js/2.1722903b.chunk.js",
+    "static/css/main.29ca2c6b.chunk.css",
+    "static/js/main.0a47bf6c.chunk.js"
+  ]
+}
