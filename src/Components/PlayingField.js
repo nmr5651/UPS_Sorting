@@ -126,8 +126,13 @@ function PlayingField() {
                 </div>
 
                 <div className = "label">
+
+                    <div className = "zipcode">
+                        <h2>{sort.apprv}   {sort.zip}</h2>
+                    </div>
+
                     <img className = "frontlabel" src = {Label} alt = "front"/>
-                    <h2>{sort.apprv}   {sort.zip}</h2>
+                    
                 </div>
                 
                 <div className = "generate-container">
